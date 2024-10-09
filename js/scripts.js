@@ -1,3 +1,7 @@
+$(document).ready(function() {
+  $('#button').on('click', newItem);
+});
+
 function newItem() {
     let inputValue = $('#input').val();
     let li = $('<li></li>');
@@ -10,7 +14,8 @@ function newItem() {
     }
   
     li.on ('dbclick',function() {
-      li.toggleClass("strike");
+      console.log('Item double-clicked');
+      li.toggleClass('strike');
     });
   
     let crossOutButton = $('<button></button>');
@@ -22,4 +27,4 @@ function newItem() {
       });
   
       $('#list').sortable();
-    }
+  }
