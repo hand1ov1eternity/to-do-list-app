@@ -13,7 +13,7 @@ function newItem() {
         $('#list').append(li);
     }
   
-    li.on ('dbclick',function() {
+    li.on ('dblclick',function() {
       console.log('Item double-clicked');
       li.toggleClass('strike');
     });
