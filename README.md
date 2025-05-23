@@ -9,9 +9,9 @@
 
 ## 🛠️ Tools Used
 
-HTML5
-CSS3 (with Google Fonts)
-JavaScript
+HTML5,
+CSS3 (with Google Fonts),
+JavaScript,
 jQuery & jQuery UI
 
 ---
