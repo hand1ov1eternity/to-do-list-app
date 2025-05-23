@@ -24,4 +24,4 @@ jQuery & jQuery UI
 
 ---
 
-> Made with ❤️ using jQuery and a splash of creativity.
+> Made with ❤️ using jQuery and a splash of creativity — always a work in progress 🚧.
