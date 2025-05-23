@@ -1,23 +1,27 @@
-**TO DO LIST APP**
+## 🚀 Features
 
-**Overview**
+- ✅ **Add** tasks to your list  
+- ❌ **Delete** tasks with a single click  
+- 🔁 **Mark as done** by double-clicking  
+- 🔃 **Drag-and-drop** support for reordering tasks  
 
-A simple app to manage tasks. Add, complete, delete, and reorder tasks easily.
+---
 
-**Features**
+## 🛠️ Tools Used
 
-Add Tasks: Enter a task and click Add.
+HTML5
+CSS3 (with Google Fonts)
+JavaScript
+jQuery & jQuery UI
 
-Mark Complete: Double-click to strike through a task.
+---
 
-Delete Tasks: Click the X to remove tasks.
+## ✨ How to Use
 
-Reorder: Drag tasks to change their order.
+1. Clone or download this repo  
+2. Open `index.html` in your browser  
+3. Start managing your tasks like a boss 💼
 
-**Technologies**
+---
 
-HTML, CSS, JavaScript (jQuery), jQuery UI
-
-How to Use
-
-Open index.html in your browser to start managing tasks!
+> Made with ❤️ using jQuery and a splash of creativity.
